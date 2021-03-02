@@ -34,6 +34,16 @@ Menschen zählen, die ein Gebäude beträten und verlassen. (Plus City, Straßen
 
 <br>
 
+## Nichtziele:
+
+<br>
+
+Keine Tiere und kleine Kinder mit zählen
+
+<br>
+
+<br>
+
 ## Verwendete Technologien:
 
 ### Software:
