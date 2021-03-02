@@ -11,10 +11,14 @@ Sailer Stefan
 
 
 
+
+
 ## Thema:
 
 
 Das zählen von Menschen.
+
+
 
 
 
@@ -26,6 +30,8 @@ Das zählen von Menschen.
 Menschen zählen, die ein Gebäude beträten und verlassen. (Plus City, Straßenbahnen)
 
 (Linz AG arbeitet mit der PlusCity/Passage/Lentia zusammen. Straßenbahnen in der Stunde werden an die Shopping Centern/Menschen mengen angepasst.)
+
+
 
 
 
@@ -56,11 +62,15 @@ Raspberry PI
 
 
 
+
+
 ## Zeitplan:
 
 
 
 -----
+
+
 
 
 
