@@ -1,16 +1,12 @@
-<center>
-  
-# Team5
+<center> # Team5 </center>
 
 <br>
 
-Maslowski Lydia
+<center> Maslowski Lydia </center>
 
 Pfeiffer Mara
 
 Sailer Stefan
-
-</center>
 
 <br>
 
