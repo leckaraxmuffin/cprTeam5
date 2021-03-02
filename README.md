@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="center" font-weight: "bold" > Maslowski Lydia </p> 
+<p align="center" > Maslowski Lydia (Teamleiter) </p> 
 
 <p align="center" > Pfeiffer Mara </p>
 
