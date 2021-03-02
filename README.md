@@ -16,7 +16,7 @@
 
 <br>
 
-Das zählen von Menschen.
+Das zählen von Menschen, die ein und ausgehen in Öffendlichen Räumen wie Beispielsweise PlusCity.
 
 <br>
 
