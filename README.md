@@ -37,7 +37,6 @@ Menschen zählen, die ein Gebäude beträten und verlassen. (Plus City, Straßen
 ## Verwendete Technologien:
 
 ### Software:
-==============
 
 [OpenCV](https://opencv.org/)
 
@@ -48,7 +47,6 @@ Java Framework
 <br>
 
 ### Hardware:
-=============
 
 Raspberry PI
 
