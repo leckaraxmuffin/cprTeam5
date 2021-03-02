@@ -34,7 +34,24 @@ Menschen zählen, die ein Gebäude beträten und verlassen. (Plus City, Straßen
 
 
 
-----
+### Software:
+
+
+
+[OpenCV](https://opencv.org/)
+
+Java Framework
+
+[Docker](www.docker.com)
+
+
+
+### Hardware:
+
+
+Raspberry PI
+
+[Raspberry PI Webcam](https://at.rs-online.com/web/p/raspberry-pi-kameras/9132664/)
 
 
 
