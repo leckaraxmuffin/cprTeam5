@@ -2,13 +2,11 @@
 
 <br>
 
-<center>
-Maslowski Lydia
+<p align="center" > Maslowski Lydia </p>
 
-Pfeiffer Mara
+<p align="center" > Pfeiffer Mara </p>
 
-Sailer Stefan
-</center>
+<p align="center" > Sailer Stefan </p>
 
 <br>
 
