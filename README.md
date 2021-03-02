@@ -2,7 +2,7 @@
 
 <br>
 
-<b> <p align="center" > Maslowski Lydia </p> </b>
+<p align="center" font-weight: "900" > Maslowski Lydia </p> 
 
 <p align="center" > Pfeiffer Mara </p>
 
