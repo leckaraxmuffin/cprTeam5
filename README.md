@@ -2,11 +2,13 @@
 
 <br>
 
+<center>
 Maslowski Lydia
 
 Pfeiffer Mara
 
 Sailer Stefan
+</center>
 
 <br>
 
