@@ -1,8 +1,8 @@
-<center> # Team5 </center>
+<h1 align="center" > Team5 </h1>
 
 <br>
 
-<center> Maslowski Lydia </center>
+Maslowski Lydia
 
 Pfeiffer Mara
 
