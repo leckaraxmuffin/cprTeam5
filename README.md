@@ -58,7 +58,7 @@ Java Framework
 
 ### Hardware:
 
-Raspberry PI
+Raspberry PI 4b (8 Gb)
 
 [Raspberry PI Webcam](https://at.rs-online.com/web/p/raspberry-pi-kameras/9132664/)
 
