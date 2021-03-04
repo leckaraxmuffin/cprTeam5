@@ -68,7 +68,7 @@ Raspberry PI 4b (8 Gb)
 
 ### Systemarchitektur:
 
-![Alt-Text](/Pfad/Bild.jpg)
+![Systemarchitektur Flowchart](/ProjectDescription/Untitled Diagram.jpg)
 
 <br>
 
