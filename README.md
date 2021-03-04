@@ -68,7 +68,7 @@ Raspberry PI 4b (8 Gb)
 
 ### Systemarchitektur:
 
-[Systemarchitektur Flowchart](/ProjectDescription/Flowchart.jpg)
+<img src="/ProjectDescription/Flowchart.jpg" alt="Flowchart von der Systemarchitektur" />
 
 <br>
 
