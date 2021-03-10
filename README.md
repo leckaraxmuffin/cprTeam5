@@ -76,11 +76,11 @@ Raspberry PI 4b (8 Gb)
 
 <br>
 
-|       Ziel      |  Abgabedatum  |       
-|  :-----------:  |:-------------:| 
-|     Planung     |   04.03.2021  |       
-|Systemarchitektur|   11.03.2021  |       
-|       ...       |      ...      |       
+|          Ziel          |  Abgabedatum  |       
+|      :-----------:     |:-------------:| 
+|         Planung        |   04.03.2021  |       
+|    Systemarchitektur   |   11.03.2021  |       
+|Paspberry laufen bringen|   31.03.2021  |       
 
 <br>
 
