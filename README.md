@@ -58,7 +58,7 @@ Java Framework
 
 ### Hardware:
 
-[Raspberry PI 4b (8 Gb)](https://www.amazon.de/Raspberry-Pi-ARM-Cortex-A72-Bluetooth-Micro-HDMI/dp/B07TC2BK1X)
+[Raspberry PI 4b (8 Gb)](https://www.amazon.de/Raspberry-Pi-Ersatzteil-Single-Board-102110421/dp/B0899VXM8F/ref=psdc_1626220031_t2_B07TC2BK1X)
 
 [Raspberry PI Webcam](https://at.rs-online.com/web/p/raspberry-pi-kameras/9132664/)
 
