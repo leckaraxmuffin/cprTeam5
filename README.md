@@ -82,7 +82,7 @@ Java Framework
 |    Systemarchitektur   |   11.03.2021  |       
 |Paspberry laufen bringen|   31.03.2021  |
 |        Chart.Js        |   06.05.2021  |
-|        Open CV         |   20.05.2021  |
+|  Open CV Installieren  |   20.05.2021  |
 
 <br>
 
