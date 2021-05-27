@@ -76,13 +76,13 @@ Java Framework
 
 <br>
 
-|          Ziel          |  Abgabedatum  |       
-|      :-----------:     |:-------------:| 
-|         Planung        |   04.03.2021  |       
-|    Systemarchitektur   |   11.03.2021  |       
-|Paspberry laufen bringen|   31.03.2021  |
-|        Chart.Js        |   06.05.2021  |
-|  Open CV Installieren  |   20.05.2021  |
+|          Ziel          |  Abgabedatum  |                                 Infos                                         |       
+|      :-----------:     |:-------------:|                       :----------------------:                                |
+|         Planung        |   04.03.2021  |        Repository erstellen - Ziele finden - Equipment organisieren           |
+|    Systemarchitektur   |   11.03.2021  |      FlowChart erstellen - Überlegung OpenCV kommuniziert mit Website         |       
+|Paspberry laufen bringen|   31.03.2021  | Raspberry gestartet - Kamera verbunden - Remotedesktopverbindung eingerichtet |
+|        Chart.Js        |   06.05.2021  |         Anzeige Anzahl Menschen um eine Uhrzeit im Gebäude sind               |
+|  Open CV Installieren  |   20.05.2021  | installiert mit Anleitung, Link: [https://cbrell.de/](https://cbrell.de/blog/opencv-mit-dem-raspberry-pi-ein-einstieg/) |
 
 <br>
 
