@@ -58,7 +58,7 @@ Java Framework
 
 ### Hardware:
 
-Raspberry PI 4b (8 Gb)
+[Raspberry PI 4b (8 Gb)](https://www.amazon.de/Raspberry-Pi-Ersatzteil-Single-Board-102110421/dp/B0899VXM8F/ref=psdc_1626220031_t2_B07TC2BK1X)
 
 [Raspberry PI Webcam](https://at.rs-online.com/web/p/raspberry-pi-kameras/9132664/)
 
@@ -80,7 +80,9 @@ Raspberry PI 4b (8 Gb)
 |      :-----------:     |:-------------:| 
 |         Planung        |   04.03.2021  |       
 |    Systemarchitektur   |   11.03.2021  |       
-|Paspberry laufen bringen|   31.03.2021  |       
+|Paspberry laufen bringen|   31.03.2021  |
+|        Chart.Js        |   06.05.2021  |
+|  Open CV Installieren  |   20.05.2021  |
 
 <br>
 
