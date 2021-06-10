@@ -68,7 +68,7 @@ Java Framework
 
 ### Systemarchitektur:
 
-<img src="/ProjectInfo/Flowchart.jpg" alt="Flowchart von der Systemarchitektur" />
+<img src="./ProjectInfos/Flowchart.jpg" alt="Flowchart von der Systemarchitektur" />
 
 <br>
 
