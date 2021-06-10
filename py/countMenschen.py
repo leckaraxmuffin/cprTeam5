@@ -33,9 +33,9 @@ while True
         cv2.waitKey(100)
         
         lines = ['Readme', 'How to write text files in Python']
-with open('readme.txt', 'w') as f:
-    for line in lines:
-        f.write(line)
-        f.write('\n')
+        with open('readme.txt', 'w') as f:
+                for line in lines:
+                        f.write(line)
+                        f.write('\n')
         
 
