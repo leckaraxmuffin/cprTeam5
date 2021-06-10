@@ -8,7 +8,7 @@ anz = 0
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_alt.xml')
 
 
-while True
+while True:
         stream = io.BytesIO()
         with picamera.PiCamera() as camera
                 camera.resolution = (640, 480)
@@ -26,13 +26,13 @@ while True
 
 
         anz+=1
-        for (x,y,w,h) in faces
+        for (x,y,w,h) in faces:
             cv2.rectangle(image,(x,y),(x+w,y+h),(255,255,0),2)
             
-        cv2.imshow(show, image)
+        cv2.imshow("show", image)
         cv2.waitKey(100)
         
-        lines = ['Readme', 'How to write text files in Python']
+        lines = [str(anz)]
         with open('readme.txt', 'w') as f:
                 for line in lines:
                         f.write(line)
