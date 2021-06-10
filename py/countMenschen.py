@@ -2,7 +2,7 @@ import io
 import picamera
 import cv2
 import numpy
-anz = 0;
+anz = 0
 
 #Load a cascade file for detecting faces
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_alt.xml')
@@ -25,7 +25,7 @@ while True
         faces = face_cascade.detectMultiScale(gray, 1.1, 5)
 
 
-        anz++
+        anz+=1
         for (x,y,w,h) in faces
             cv2.rectangle(image,(x,y),(x+w,y+h),(255,255,0),2)
             
