@@ -30,7 +30,7 @@ while True:
             cv2.rectangle(image,(x,y),(x+w,y+h),(255,255,0),2)
             
         cv2.imshow("show", image)
-        cv2.waitKey(100)
+        cv2.waitKey(1000)
         
         lines = [str(anz)]
         with open('readme.txt', 'w') as f:
