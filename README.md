@@ -83,7 +83,7 @@ Java Framework
 |Paspberry laufen bringen|   31.03.2021  | Raspberry gestartet - Kamera verbunden - Remotedesktopverbindung eingerichtet |
 |        Chart.Js        |   06.05.2021  |         Anzeige Anzahl Menschen um eine Uhrzeit im Gebäude sind               |
 |  Open CV Installieren  |   20.05.2021  | installiert mit Anleitung, Link: [https://cbrell.de/](https://cbrell.de/blog/opencv-mit-dem-raspberry-pi-ein-einstieg/) |
-|   Website, Protokoll   |   27.05.2021  |           Website erstellt (HTML, CSS) – Protokoll geschrieben                |
+|   Website, Protokoll   |   27.05.2021  |           Website erstellt (HTML, CSS) – Protokoll schreiben                  |
 <br>
 
 <br>
