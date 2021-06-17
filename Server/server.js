@@ -19,8 +19,8 @@ app.get('/', (req, res) => {
 
 app.get('/info', (req, res) => {
     //let anzMenschen = parseInt(daten)
-    fs.readFile('../py/readme.txt', (error, data) => {
-        daten = JSON.stringify(data); 
+    fs.readFile('../py/readme.txt', (error, data) => { 
+        var daten = data.toString().split(';');
         console.log(daten);
         //Daten auslesen muss noch in Public rein - JSON.parse(document.all[2].innerHTML).data
     });
