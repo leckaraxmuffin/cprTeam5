@@ -24,8 +24,9 @@ while True:
 
         faces = face_cascade.detectMultiScale(gray, 1.1, 5)
 
-
         anz+=1
+        print(anz)
+        
         for (x,y,w,h) in faces:
             cv2.rectangle(image,(x,y),(x+w,y+h),(255,255,0),2)
             
@@ -36,6 +37,5 @@ while True:
         with open('readme.txt', 'w') as f:
                 for line in lines:
                         f.write(line)
-                        f.write('\n')
         
 
