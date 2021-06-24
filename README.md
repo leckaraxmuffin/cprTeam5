@@ -85,6 +85,7 @@ Java Framework
 |     Open CV Installieren    |   20.05.2021  | installiert mit Anleitung, Link: [https://cbrell.de/](https://cbrell.de/blog/opencv-mit-dem-raspberry-pi-ein-einstieg/) |
 |     Website, Protokoll      |   27.05.2021  |           Website erstellt (HTML, CSS) – Protokoll schreiben                  |
 |Website, Datein überarbeitung|   10.06.2021  |           Website weitergarbeitet, Datein überarbeitet                        |
+|     Website, OpenCV         |   17.06.2021  |              Website bearbeitet, OpneCV überarbeitet                          |
 <br>
 
 <br>
