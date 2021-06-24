@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  	<title>PlusCity</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="./img/plus.jpg" type="image/x-icon">
+    <script src="chart.js" defer></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.2.0/chart.min.js"></script>
+
+  </head>
+  <body id="idk">
+	
+    <div id="navbar">
+        <a href="anmeldung.html">Anmeldung</a>
+        <a href="covid.html">Informationen</a>
+        <a href="index.html">Home</a>
+    </div>
+	
+    
+    <section class="grid"> 
+        <div class = "columns">
+            <img style="height: 110px; width: 100px;" src="./img/hausumriss.png" alt="center" class="icons">
+            <br>
+            <br>
+            <a style="color: black;" href="index.html"><b>Home</b> </a>
+            <p style="color: gray">Haben sie einen überblick über die Anzahl der Besucher. </p> 
+        </div>
+
+        <div class="columns">
+            <img style="height: 110px; width: 105px;" src="./img/information.png" alt="center" class="icons">
+            <br>
+            <br>
+            <a style="color: black;" href="covid.html"><b>Informationen</b></a>
+            <p style="color: gray">Informationen zum Projekt.</p> 
+        </div>
+
+        <div  class="columns">
+            <img style="height: 110px; width: 105px;"  src="./img/anmeldung.png" alt="center" class="icons">
+            <br>
+            <br>
+            <a style="color: black;" href="anmeldung.html"><b>Anmeldung</b></a>
+            <p style=" color: gray">Abonnieren sie unseren Newsletter.</p> 
+
+        </div>
+    </section>
+    
+<hr>
+
+<br>
+<br>
+
+<h3 style="font-family:Verdana, Geneva, Tahoma, sans-serif; color: black; text-align: center; padding-top: 3%;">Aktuelle Besucheranzahl</h3>
+<br>   
+    <div class="diagramm">
+        <canvas id="myChart" width="10vw" height="5vh"></canvas>
+    </div>
+    
+
+<br>
+<br>
+
+<br>
+<br>
+<footer class="footer">
+
+  <section class = "grid">
+      <div class="columns1">
+          <a style="color: white; " href="https://www.google.at/maps/place/Limesstra%C3%9Fe+12,+4060+Leonding/@48.2684338,14.2493981,17z/data=!3m1!4b1!4m5!3m4!1s0x477396fb9653c5bb:0x1fc5dff9aa5ad001!8m2!3d48.2684338!4d14.2515868"><img src="./img/platzhalter.png" alt="Bild" style="margin-left: 20%; margin-top: 5%;" width="30px" height="25px" />Limesstraße 12-14. 4060 Leonding</a>
+          <br>
+          <a style="color: white; margin-right: 2%;" href="https://www.instagram.com/htlleonding/"><img src="./img/instagram-logo.png" alt="Bild" style="margin-left: 20%; margin-top: 5%; "width="30px" height="25px" />     HTL Leonding</a>
+          <br>
+      </div>
+
+      <div class="columns1">
+          <br>
+          <a><p style="font-size: 4vh; padding-left: 1%;">Über unser Projekt</p> </a>
+          <br>
+          <a><p>Unser Projekt handelt um das Zählen von Menschen, <br> die ein und ausgehen in Öffendlichen Räumen wie Beispielsweise PlusCity. </a>
+      </div>
+      <br>
+  </section>
+<br>
+  <div>
+      <p style="text-align: center; "><small>&copy; Projekt. All Rights Reserved.</small></p>
+    </div>
+    <br>
+
+</footer>
+
+  </body>
+</html>
